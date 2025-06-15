@@ -1,0 +1,12 @@
+langchain-community
+langchain-openai
+openai
+python-dotenv
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+python-multipart
+websockets
+requests
+streamlit

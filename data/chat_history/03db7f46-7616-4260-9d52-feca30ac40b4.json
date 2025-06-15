@@ -1,0 +1,98 @@
+[
+  {
+    "id": "52b30f2d-631c-440c-901f-ccd530b4fd0a",
+    "session_id": "03db7f46-7616-4260-9d52-feca30ac40b4",
+    "message_type": "user",
+    "content": "Hi",
+    "timestamp": "2025-06-15 16:44:00.024215",
+    "metadata": null
+  },
+  {
+    "id": "308110c6-8896-4582-a4c2-17c87b95f016",
+    "session_id": "03db7f46-7616-4260-9d52-feca30ac40b4",
+    "message_type": "assistant",
+    "content": "Hello! It's great to hear from you. What\u2019s your name, please?",
+    "timestamp": "2025-06-15 16:44:01.660980",
+    "metadata": null
+  },
+  {
+    "id": "c72e9df6-99b9-467a-b432-b496a6c8f481",
+    "session_id": "03db7f46-7616-4260-9d52-feca30ac40b4",
+    "message_type": "user",
+    "content": "my name is omran",
+    "timestamp": "2025-06-15 16:44:09.161541",
+    "metadata": null
+  },
+  {
+    "id": "8e2ad2fc-4699-43ea-ac9d-9ab5589bcf4e",
+    "session_id": "03db7f46-7616-4260-9d52-feca30ac40b4",
+    "message_type": "assistant",
+    "content": "Thank you, Omran! May I have your phone number, please?",
+    "timestamp": "2025-06-15 16:44:11.296007",
+    "metadata": null
+  },
+  {
+    "id": "3ea4833f-64e7-4e5e-a952-d8bdcfda3404",
+    "session_id": "03db7f46-7616-4260-9d52-feca30ac40b4",
+    "message_type": "user",
+    "content": "010000000000",
+    "timestamp": "2025-06-15 16:44:23.356915",
+    "metadata": null
+  },
+  {
+    "id": "a58a07d1-2094-480c-8229-500fb0797414",
+    "session_id": "03db7f46-7616-4260-9d52-feca30ac40b4",
+    "message_type": "assistant",
+    "content": "Thank you for providing your phone number, Omran! Now, could you please tell me about the symptoms or the reason for your visit?",
+    "timestamp": "2025-06-15 16:44:24.463889",
+    "metadata": null
+  },
+  {
+    "id": "1882c982-4d36-4583-bcb0-2c829eda7aad",
+    "session_id": "03db7f46-7616-4260-9d52-feca30ac40b4",
+    "message_type": "user",
+    "content": "i have pain in my leg",
+    "timestamp": "2025-06-15 16:44:39.175430",
+    "metadata": null
+  },
+  {
+    "id": "389af5c2-c8b2-4661-bb3e-3695c2f98f5c",
+    "session_id": "03db7f46-7616-4260-9d52-feca30ac40b4",
+    "message_type": "assistant",
+    "content": "I appreciate you sharing that with me, Omran. Based on your symptoms of leg pain, I would recommend seeing Dr. Smith, who specializes in General Medicine. Does that sound good to you, or do you have a different doctor in mind?",
+    "timestamp": "2025-06-15 16:44:41.234653",
+    "metadata": null
+  },
+  {
+    "id": "2dd752e2-f190-4b6a-a045-35bc223fcfa3",
+    "session_id": "03db7f46-7616-4260-9d52-feca30ac40b4",
+    "message_type": "user",
+    "content": "no",
+    "timestamp": "2025-06-15 16:44:56.174895",
+    "metadata": null
+  },
+  {
+    "id": "dd375996-65aa-4973-a9ca-fd8300f1f756",
+    "session_id": "03db7f46-7616-4260-9d52-feca30ac40b4",
+    "message_type": "assistant",
+    "content": "That's perfectly fine! If you prefer, we can explore other options. Would you like to see Dr. Johnson, who specializes in Cardiology, or Dr. Brown, who focuses on Dermatology? Please let me know your preference!",
+    "timestamp": "2025-06-15 16:44:57.646652",
+    "metadata": null
+  },
+  {
+    "id": "28594cd6-5cb9-4c01-bc67-2a8ff03c9c36",
+    "session_id": "03db7f46-7616-4260-9d52-feca30ac40b4",
+    "message_type": "user",
+    "content": "i want Johnson",
+    "timestamp": "2025-06-15 16:45:28.961922",
+    "metadata": null
+  },
+  {
+    "id": "77da21d4-bc25-427e-a114-6b4700f89539",
+    "session_id": "03db7f46-7616-4260-9d52-feca30ac40b4",
+    "message_type": "assistant",
+    "content": "Great choice! Let's go ahead and check the available slots for Dr. Johnson. Here are the available appointment times:\n\n**Dr. Johnson (Cardiology):**\n- 2024-01-15 at 10:00\n- 2024-01-15 at 11:00\n- 2024-01-15 at 15:00\n- 2024-01-16 at 09:00\n- 2024-01-16 at 10:00\n- 2024-01-16 at 16:00\n\nPlease let me know which date and time works best for you!",
+    "timestamp": "2025-06-15 16:45:32.489121",
+    "metadata": null
+  }
+]

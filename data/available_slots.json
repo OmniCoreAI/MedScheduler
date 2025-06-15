@@ -1,0 +1,55 @@
+{
+  "dr_smith": {
+    "name": "Dr. Smith",
+    "specialty": "General Medicine",
+    "available_slots": [
+      {
+        "date": "2024-01-15",
+        "time": "09:00",
+        "available": true
+      },
+      {
+        "date": "2024-01-15",
+        "time": "10:00",
+        "available": true
+      },
+      {
+        "date": "2024-01-16",
+        "time": "14:00",
+        "available": true
+      }
+    ]
+  },
+  "dr_johnson": {
+    "name": "Dr. Johnson",
+    "specialty": "Cardiology",
+    "available_slots": [
+      {
+        "date": "2024-01-15",
+        "time": "11:00",
+        "available": true
+      },
+      {
+        "date": "2024-01-16",
+        "time": "15:00",
+        "available": true
+      }
+    ]
+  },
+  "dr_brown": {
+    "name": "Dr. Brown",
+    "specialty": "Dermatology",
+    "available_slots": [
+      {
+        "date": "2024-01-15",
+        "time": "13:00",
+        "available": true
+      },
+      {
+        "date": "2024-01-17",
+        "time": "10:00",
+        "available": true
+      }
+    ]
+  }
+}

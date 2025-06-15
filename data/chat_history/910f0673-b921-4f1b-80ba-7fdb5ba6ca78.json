@@ -1,0 +1,20 @@
+[
+  {
+    "id": "28e3dc65-cd4c-4f6d-b368-4732437dac9f",
+    "session_id": "910f0673-b921-4f1b-80ba-7fdb5ba6ca78",
+    "message_type": "user",
+    "content": "hi",
+    "timestamp": "2025-06-15 17:52:22.774687",
+    "metadata": {
+      "additionalProp1": {}
+    }
+  },
+  {
+    "id": "c6151a6d-1965-4df1-a014-3bd6418d6244",
+    "session_id": "910f0673-b921-4f1b-80ba-7fdb5ba6ca78",
+    "message_type": "assistant",
+    "content": "Hello! Welcome. How can I assist you today? Could you please share your name?",
+    "timestamp": "2025-06-15 17:52:24.432874",
+    "metadata": null
+  }
+]

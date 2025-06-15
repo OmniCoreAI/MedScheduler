@@ -1,0 +1,74 @@
+[
+  {
+    "id": "0ffcecf7-280a-46d5-8ca5-14675f83701e",
+    "session_id": "1c90b32c-ef46-423b-962e-2e07fabb447b",
+    "message_type": "user",
+    "content": "hi",
+    "timestamp": "2025-06-15 17:45:44.617487",
+    "metadata": {
+      "additionalProp1": {}
+    }
+  },
+  {
+    "id": "0b503a01-3442-454f-869e-5ce7914d3798",
+    "session_id": "1c90b32c-ef46-423b-962e-2e07fabb447b",
+    "message_type": "assistant",
+    "content": "I apologize, but I'm having trouble processing your request right now. Please try again.",
+    "timestamp": "2025-06-15 17:45:45.292365",
+    "metadata": null
+  },
+  {
+    "id": "7d7a7961-38c9-4fb0-868a-59b741628a56",
+    "session_id": "1c90b32c-ef46-423b-962e-2e07fabb447b",
+    "message_type": "user",
+    "content": "hi",
+    "timestamp": "2025-06-15 17:46:02.428632",
+    "metadata": {
+      "additionalProp1": {}
+    }
+  },
+  {
+    "id": "b1a03859-5c3d-4d50-b524-dbab92198dc7",
+    "session_id": "1c90b32c-ef46-423b-962e-2e07fabb447b",
+    "message_type": "assistant",
+    "content": "I apologize, but I'm having trouble processing your request right now. Please try again.",
+    "timestamp": "2025-06-15 17:46:02.891158",
+    "metadata": null
+  },
+  {
+    "id": "4fd31c8c-c050-4a5c-8795-14a7ca644e67",
+    "session_id": "1c90b32c-ef46-423b-962e-2e07fabb447b",
+    "message_type": "user",
+    "content": "hi",
+    "timestamp": "2025-06-15 17:48:23.590177",
+    "metadata": {
+      "additionalProp1": {}
+    }
+  },
+  {
+    "id": "30659a40-c203-4555-b8e5-b9f797168bd1",
+    "session_id": "1c90b32c-ef46-423b-962e-2e07fabb447b",
+    "message_type": "assistant",
+    "content": "I apologize, but I'm having trouble processing your request right now. Please try again.",
+    "timestamp": "2025-06-15 17:48:24.084922",
+    "metadata": null
+  },
+  {
+    "id": "641a2ade-58e0-466f-9dd4-957cd8b93650",
+    "session_id": "1c90b32c-ef46-423b-962e-2e07fabb447b",
+    "message_type": "user",
+    "content": "hi",
+    "timestamp": "2025-06-15 17:51:07.040412",
+    "metadata": {
+      "additionalProp1": {}
+    }
+  },
+  {
+    "id": "b6741425-6c4a-46ff-9851-bfdce5b46836",
+    "session_id": "1c90b32c-ef46-423b-962e-2e07fabb447b",
+    "message_type": "assistant",
+    "content": "I apologize, but I'm having trouble processing your request right now. Please try again.",
+    "timestamp": "2025-06-15 17:51:07.493944",
+    "metadata": null
+  }
+]

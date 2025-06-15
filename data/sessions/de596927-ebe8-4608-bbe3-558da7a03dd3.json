@@ -1,0 +1,19 @@
+{
+  "session_id": "de596927-ebe8-4608-bbe3-558da7a03dd3",
+  "created_at": "2025-06-15 17:51:24.172263",
+  "updated_at": "2025-06-15 17:51:24.172264",
+  "status": "active",
+  "current_step": "greeting",
+  "patient_info": {
+    "name": null,
+    "phone": null,
+    "email": "test@example.com",
+    "symptoms": null,
+    "preferred_doctor": null,
+    "preferred_date": null,
+    "preferred_time": null,
+    "additional_notes": null
+  },
+  "metadata": {},
+  "expires_at": "2025-06-16 17:51:24.172231"
+}

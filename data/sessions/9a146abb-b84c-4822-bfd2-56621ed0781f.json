@@ -1,0 +1,19 @@
+{
+  "session_id": "9a146abb-b84c-4822-bfd2-56621ed0781f",
+  "created_at": "2025-06-15 18:14:11.057120",
+  "updated_at": "2025-06-15 18:17:14.415828",
+  "status": "active",
+  "current_step": "slot_selection",
+  "patient_info": {
+    "name": "omran",
+    "phone": "+201069440375",
+    "email": "Abdelrahman.omran@student.aast.edu",
+    "symptoms": "yes",
+    "preferred_doctor": "dr_smith",
+    "preferred_date": null,
+    "preferred_time": null,
+    "additional_notes": null
+  },
+  "metadata": {},
+  "expires_at": "2025-06-16 18:14:11.057052"
+}

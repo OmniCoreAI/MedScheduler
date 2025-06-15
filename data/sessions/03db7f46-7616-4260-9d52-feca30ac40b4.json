@@ -1,0 +1,19 @@
+{
+  "session_id": "03db7f46-7616-4260-9d52-feca30ac40b4",
+  "created_at": "2025-06-15 16:43:41.307956",
+  "updated_at": "2025-06-15 16:44:57.646505",
+  "status": "active",
+  "current_step": "slot_selection",
+  "patient_info": {
+    "name": "my name is omran",
+    "phone": "010000000000",
+    "email": "omran@omran.com",
+    "symptoms": "i have pain in my leg",
+    "preferred_doctor": "dr_smith",
+    "preferred_date": null,
+    "preferred_time": null,
+    "additional_notes": null
+  },
+  "metadata": {},
+  "expires_at": "2025-06-16 16:43:41.307906"
+}

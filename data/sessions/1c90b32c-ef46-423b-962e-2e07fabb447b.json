@@ -1,0 +1,21 @@
+{
+  "session_id": "1c90b32c-ef46-423b-962e-2e07fabb447b",
+  "created_at": "2025-06-15 17:45:22.309567",
+  "updated_at": "2025-06-15 17:45:22.309569",
+  "status": "active",
+  "current_step": "greeting",
+  "patient_info": {
+    "name": null,
+    "phone": null,
+    "email": "omran",
+    "symptoms": null,
+    "preferred_doctor": null,
+    "preferred_date": null,
+    "preferred_time": null,
+    "additional_notes": null
+  },
+  "metadata": {
+    "additionalProp1": {}
+  },
+  "expires_at": "2025-06-16 17:45:22.309523"
+}

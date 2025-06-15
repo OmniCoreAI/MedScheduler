@@ -1,0 +1,33 @@
+
+  You can now view your Streamlit app in your browser.
+
+  URL: http://0.0.0.0:8501
+
+  For better performance, install the Watchdog module:
+
+  $ xcode-select --install
+  $ pip install watchdog
+            
+  Stopping...
+  Stopping...
+Exception ignored on threading shutdown:
+Traceback (most recent call last):
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/threading.py", line 1534, in _shutdown
+    atexit_call()
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/threading.py", line 1505, in <lambda>
+    _threading_atexits.append(lambda: func(*arg, **kwargs))
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/concurrent/futures/thread.py", line 31, in _python_exit
+    t.join()
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/threading.py", line 1092, in join
+    self._handle.join(timeout)
+  File "/Users/abdelrahmanomran/Documents/Manual Library/projects/CU/Booking/.venv/lib/python3.13/site-packages/streamlit/web/bootstrap.py", line 44, in signal_handler
+    server.stop()
+  File "/Users/abdelrahmanomran/Documents/Manual Library/projects/CU/Booking/.venv/lib/python3.13/site-packages/streamlit/web/server/server.py", line 469, in stop
+    self._runtime.stop()
+  File "/Users/abdelrahmanomran/Documents/Manual Library/projects/CU/Booking/.venv/lib/python3.13/site-packages/streamlit/runtime/runtime.py", line 324, in stop
+    async_objs.eventloop.call_soon_threadsafe(stop_on_eventloop)
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/base_events.py", line 872, in call_soon_threadsafe
+    self._check_closed()
+  File "/Library/Frameworks/Python.framework/Versions/3.13/lib/python3.13/asyncio/base_events.py", line 550, in _check_closed
+    raise RuntimeError('Event loop is closed')
+RuntimeError: Event loop is closed

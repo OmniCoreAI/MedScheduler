@@ -1,0 +1,18 @@
+[
+  {
+    "id": "58a2b21d-5ac7-4985-a816-5b3ff95232d3",
+    "session_id": "de596927-ebe8-4608-bbe3-558da7a03dd3",
+    "message_type": "user",
+    "content": "hi",
+    "timestamp": "2025-06-15 17:51:31.249985",
+    "metadata": null
+  },
+  {
+    "id": "4c2600c3-6464-489a-a410-e1229dd0e3b7",
+    "session_id": "de596927-ebe8-4608-bbe3-558da7a03dd3",
+    "message_type": "assistant",
+    "content": "I apologize, but I'm having trouble processing your request right now. Please try again.",
+    "timestamp": "2025-06-15 17:51:31.713656",
+    "metadata": null
+  }
+]

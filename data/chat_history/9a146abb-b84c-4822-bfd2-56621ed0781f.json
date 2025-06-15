@@ -1,0 +1,242 @@
+[
+  {
+    "id": "bfb45e4c-bcaa-4422-ad17-b02e1e5f949f",
+    "session_id": "9a146abb-b84c-4822-bfd2-56621ed0781f",
+    "message_type": "user",
+    "content": "Hi ",
+    "timestamp": "2025-06-15 18:14:16.822874",
+    "metadata": null
+  },
+  {
+    "id": "77b7a0ff-35e2-424c-b30d-af40cdd626e5",
+    "session_id": "9a146abb-b84c-4822-bfd2-56621ed0781f",
+    "message_type": "assistant",
+    "content": "Hello! It's great to see you. May I have your name, please?",
+    "timestamp": "2025-06-15 18:14:18.209806",
+    "metadata": null
+  },
+  {
+    "id": "9e9845b5-3c1a-4cf6-958b-f2f64aaa9621",
+    "session_id": "9a146abb-b84c-4822-bfd2-56621ed0781f",
+    "message_type": "user",
+    "content": "omran",
+    "timestamp": "2025-06-15 18:14:24.517489",
+    "metadata": null
+  },
+  {
+    "id": "45b8a3d7-56e9-4424-8a72-3a0f1c82c537",
+    "session_id": "9a146abb-b84c-4822-bfd2-56621ed0781f",
+    "message_type": "assistant",
+    "content": "Thank you, Omran. Could you please confirm that I have your name correct: Omran?",
+    "timestamp": "2025-06-15 18:14:25.953587",
+    "metadata": null
+  },
+  {
+    "id": "50cbfef9-f348-46f3-975f-2b1523504ec3",
+    "session_id": "9a146abb-b84c-4822-bfd2-56621ed0781f",
+    "message_type": "user",
+    "content": "yes",
+    "timestamp": "2025-06-15 18:14:34.042240",
+    "metadata": null
+  },
+  {
+    "id": "b18029f2-be5c-4f94-9f9f-fb2ae40e2d51",
+    "session_id": "9a146abb-b84c-4822-bfd2-56621ed0781f",
+    "message_type": "assistant",
+    "content": "Thank you for confirming, Omran. Could you please provide me with your phone number so I can assist you with the appointment confirmation?",
+    "timestamp": "2025-06-15 18:14:35.081665",
+    "metadata": null
+  },
+  {
+    "id": "de028d0c-be94-424f-9b7a-ec61707de44a",
+    "session_id": "9a146abb-b84c-4822-bfd2-56621ed0781f",
+    "message_type": "user",
+    "content": "01000000",
+    "timestamp": "2025-06-15 18:14:41.710473",
+    "metadata": null
+  },
+  {
+    "id": "f642d0d3-de8a-42c4-8ccb-4fdfadc071bb",
+    "session_id": "9a146abb-b84c-4822-bfd2-56621ed0781f",
+    "message_type": "assistant",
+    "content": "Thank you, Omran. Just to confirm, is your phone number 01000000?",
+    "timestamp": "2025-06-15 18:14:42.588196",
+    "metadata": null
+  },
+  {
+    "id": "79147039-48d2-4b7d-9ba6-b00bd7317582",
+    "session_id": "9a146abb-b84c-4822-bfd2-56621ed0781f",
+    "message_type": "user",
+    "content": "yes",
+    "timestamp": "2025-06-15 18:14:47.189809",
+    "metadata": null
+  },
+  {
+    "id": "67668e1d-87f2-427c-8753-6c611f5b1f7e",
+    "session_id": "9a146abb-b84c-4822-bfd2-56621ed0781f",
+    "message_type": "assistant",
+    "content": "Thank you for confirming your phone number, Omran. \n\nNow, could you please share what symptoms you are experiencing? This will help us determine the most appropriate doctor for your appointment.",
+    "timestamp": "2025-06-15 18:14:48.840156",
+    "metadata": null
+  },
+  {
+    "id": "917bb2d2-7c0f-45c5-9545-015c67feb8c2",
+    "session_id": "9a146abb-b84c-4822-bfd2-56621ed0781f",
+    "message_type": "user",
+    "content": "i have pain in my stomic",
+    "timestamp": "2025-06-15 18:15:10.354817",
+    "metadata": null
+  },
+  {
+    "id": "c2ec7684-2440-4b72-8f63-395e2a950d2e",
+    "session_id": "9a146abb-b84c-4822-bfd2-56621ed0781f",
+    "message_type": "assistant",
+    "content": "Thank you for sharing that, Omran. Just to clarify, are you experiencing stomach pain specifically, or is it related to any other symptoms as well?",
+    "timestamp": "2025-06-15 18:15:11.466102",
+    "metadata": null
+  },
+  {
+    "id": "4bd0ca5f-cead-4073-a18a-c20b477230d5",
+    "session_id": "9a146abb-b84c-4822-bfd2-56621ed0781f",
+    "message_type": "user",
+    "content": "no its pain",
+    "timestamp": "2025-06-15 18:15:20.516782",
+    "metadata": null
+  },
+  {
+    "id": "c55ee036-c2c7-475b-a06d-094399105b52",
+    "session_id": "9a146abb-b84c-4822-bfd2-56621ed0781f",
+    "message_type": "assistant",
+    "content": "Thank you for confirming that you are experiencing stomach pain. \n\nNow, could you please let me know if you have a preferred doctor for your appointment? Here are the available options:\n\n- Dr. Smith (General Medicine)\n- Dr. Johnson (Cardiology)\n- Dr. Brown (Dermatology)\n\nIf you're not sure, I can recommend a doctor based on your symptoms.",
+    "timestamp": "2025-06-15 18:15:22.301754",
+    "metadata": null
+  },
+  {
+    "id": "732fd9d3-8a28-4a7b-92a0-8f2288a29556",
+    "session_id": "9a146abb-b84c-4822-bfd2-56621ed0781f",
+    "message_type": "user",
+    "content": "i want Dr. Smith",
+    "timestamp": "2025-06-15 18:15:34.934238",
+    "metadata": null
+  },
+  {
+    "id": "2a340192-b77b-49a5-9857-d9c63670ac3c",
+    "session_id": "9a146abb-b84c-4822-bfd2-56621ed0781f",
+    "message_type": "assistant",
+    "content": "Great choice! Dr. Smith specializes in General Medicine and will be able to help you with your stomach pain.\n\nNow, could you please provide your phone number so I can confirm your appointment?",
+    "timestamp": "2025-06-15 18:15:36.085944",
+    "metadata": null
+  },
+  {
+    "id": "62b2ff8a-7b41-43fc-9807-03ded8125bc1",
+    "session_id": "9a146abb-b84c-4822-bfd2-56621ed0781f",
+    "message_type": "user",
+    "content": "0100567",
+    "timestamp": "2025-06-15 18:15:47.298927",
+    "metadata": null
+  },
+  {
+    "id": "ea1169b1-df41-45ae-8610-14e7f57c111a",
+    "session_id": "9a146abb-b84c-4822-bfd2-56621ed0781f",
+    "message_type": "assistant",
+    "content": "Thank you for providing your phone number. However, it seems like the number is incomplete. Could you please provide the full phone number, including the area code?",
+    "timestamp": "2025-06-15 18:15:48.498602",
+    "metadata": null
+  },
+  {
+    "id": "5c4ca2ac-72fd-45fa-8e28-aae28c2eb2fa",
+    "session_id": "9a146abb-b84c-4822-bfd2-56621ed0781f",
+    "message_type": "user",
+    "content": "01000000",
+    "timestamp": "2025-06-15 18:16:02.526516",
+    "metadata": null
+  },
+  {
+    "id": "d920b644-1ff0-4ccc-92a6-d2b465b08494",
+    "session_id": "9a146abb-b84c-4822-bfd2-56621ed0781f",
+    "message_type": "assistant",
+    "content": "Thank you for providing your phone number, but it seems that it may still be incomplete or incorrect. Could you please provide the full phone number including the area code?",
+    "timestamp": "2025-06-15 18:16:03.734007",
+    "metadata": null
+  },
+  {
+    "id": "dc81300c-f3bc-4882-84ca-55fa8567e2f9",
+    "session_id": "9a146abb-b84c-4822-bfd2-56621ed0781f",
+    "message_type": "user",
+    "content": "+201069440375",
+    "timestamp": "2025-06-15 18:16:19.112646",
+    "metadata": null
+  },
+  {
+    "id": "89e7b8a3-5e35-4789-bea7-a340f991a334",
+    "session_id": "9a146abb-b84c-4822-bfd2-56621ed0781f",
+    "message_type": "assistant",
+    "content": "Thank you for providing your phone number, Omran. Just to confirm, is your phone number +201069440375 correct?",
+    "timestamp": "2025-06-15 18:16:20.173039",
+    "metadata": null
+  },
+  {
+    "id": "b0770ef0-77e8-40cb-9216-d5846039b86d",
+    "session_id": "9a146abb-b84c-4822-bfd2-56621ed0781f",
+    "message_type": "user",
+    "content": "yes",
+    "timestamp": "2025-06-15 18:16:26.476360",
+    "metadata": null
+  },
+  {
+    "id": "30ccf947-c74b-440d-94ef-b782bdf8c756",
+    "session_id": "9a146abb-b84c-4822-bfd2-56621ed0781f",
+    "message_type": "assistant",
+    "content": "Thank you for confirming your phone number, Omran. Now, could you please describe your symptoms or the reason for your visit? This will help me assist you better.",
+    "timestamp": "2025-06-15 18:16:27.451572",
+    "metadata": null
+  },
+  {
+    "id": "46fa13f4-2c41-449b-9d29-eee71b6c7f25",
+    "session_id": "9a146abb-b84c-4822-bfd2-56621ed0781f",
+    "message_type": "user",
+    "content": "pain in my stomic",
+    "timestamp": "2025-06-15 18:16:40.353784",
+    "metadata": null
+  },
+  {
+    "id": "b528cb05-aeb6-41f2-a88f-42054615dd1a",
+    "session_id": "9a146abb-b84c-4822-bfd2-56621ed0781f",
+    "message_type": "assistant",
+    "content": "I'm sorry to hear that you're experiencing stomach pain. Based on your symptoms, I recommend seeing a doctor who specializes in General Medicine, as they can help diagnose and treat stomach-related issues.\n\nWould you like to proceed with booking an appointment with Dr. Smith (General Medicine), or do you have a preference for another doctor?",
+    "timestamp": "2025-06-15 18:16:41.935924",
+    "metadata": null
+  },
+  {
+    "id": "a569a033-87a7-4dcb-9739-1339f84c5eac",
+    "session_id": "9a146abb-b84c-4822-bfd2-56621ed0781f",
+    "message_type": "user",
+    "content": "yes dr smith ",
+    "timestamp": "2025-06-15 18:16:57.612393",
+    "metadata": null
+  },
+  {
+    "id": "044dd543-52d1-403f-98a9-ffafb6333d5a",
+    "session_id": "9a146abb-b84c-4822-bfd2-56621ed0781f",
+    "message_type": "assistant",
+    "content": "Great choice! I'll go ahead and book an appointment with Dr. Smith (General Medicine) for you.\n\nCould you please let me know your preferred date and time for the appointment?",
+    "timestamp": "2025-06-15 18:16:58.690534",
+    "metadata": null
+  },
+  {
+    "id": "f6699491-e04d-40f3-87b5-4860e7d27823",
+    "session_id": "9a146abb-b84c-4822-bfd2-56621ed0781f",
+    "message_type": "user",
+    "content": "tell me whats avalable slots ",
+    "timestamp": "2025-06-15 18:17:12.378062",
+    "metadata": null
+  },
+  {
+    "id": "699cd24e-84a1-46ca-85c9-c0c635e8e2aa",
+    "session_id": "9a146abb-b84c-4822-bfd2-56621ed0781f",
+    "message_type": "assistant",
+    "content": "Here are the available slots for Dr. Smith (General Medicine):\n\n1. Monday, 10:00 AM\n2. Monday, 2:00 PM\n3. Tuesday, 11:00 AM\n4. Wednesday, 1:00 PM\n5. Thursday, 3:00 PM\n\nPlease let me know which slot works best for you!",
+    "timestamp": "2025-06-15 18:17:14.424185",
+    "metadata": null
+  }
+]

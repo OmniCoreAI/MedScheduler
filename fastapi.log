@@ -1,0 +1,59 @@
+/Users/abdelrahmanomran/Documents/Manual Library/projects/CU/Booking/main.py:52: DeprecationWarning: 
+        on_event is deprecated, use lifespan event handlers instead.
+
+        Read more about it in the
+        [FastAPI docs for Lifespan Events](https://fastapi.tiangolo.com/advanced/events/).
+        
+  @app.on_event("startup")
+/Users/abdelrahmanomran/Documents/Manual Library/projects/CU/Booking/main.py:66: DeprecationWarning: 
+        on_event is deprecated, use lifespan event handlers instead.
+
+        Read more about it in the
+        [FastAPI docs for Lifespan Events](https://fastapi.tiangolo.com/advanced/events/).
+        
+  @app.on_event("shutdown")
+2025-06-15 18:13:26,898 - __main__ - INFO - Starting server on 0.0.0.0:8000
+INFO:     Started server process [1520]
+INFO:     Waiting for application startup.
+2025-06-15 18:13:27,052 - main - INFO - Starting Medical Appointment Booking System v1.0.0
+2025-06-15 18:13:27,052 - main - INFO - Application startup complete
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:59161 - "GET /health HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59232 - "POST /sessions HTTP/1.1" 200 OK
+2025-06-15 18:14:18,200 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:59239 - "POST /chat HTTP/1.1" 200 OK
+2025-06-15 18:14:25,948 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:59252 - "POST /chat HTTP/1.1" 200 OK
+2025-06-15 18:14:35,075 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:59270 - "POST /chat HTTP/1.1" 200 OK
+2025-06-15 18:14:42,585 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:59295 - "POST /chat HTTP/1.1" 200 OK
+2025-06-15 18:14:48,829 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:59306 - "POST /chat HTTP/1.1" 200 OK
+2025-06-15 18:15:11,463 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:59333 - "POST /chat HTTP/1.1" 200 OK
+2025-06-15 18:15:22,298 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:59346 - "POST /chat HTTP/1.1" 200 OK
+2025-06-15 18:15:36,070 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:59358 - "POST /chat HTTP/1.1" 200 OK
+2025-06-15 18:15:48,494 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:59370 - "POST /chat HTTP/1.1" 200 OK
+2025-06-15 18:16:03,724 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:59382 - "POST /chat HTTP/1.1" 200 OK
+2025-06-15 18:16:20,164 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:59398 - "POST /chat HTTP/1.1" 200 OK
+2025-06-15 18:16:27,433 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:59404 - "POST /chat HTTP/1.1" 200 OK
+2025-06-15 18:16:41,931 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:59415 - "POST /chat HTTP/1.1" 200 OK
+2025-06-15 18:16:58,687 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:59426 - "POST /chat HTTP/1.1" 200 OK
+2025-06-15 18:17:14,404 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:     127.0.0.1:59475 - "POST /chat HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59484 - "POST /cleanup HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+2025-06-15 18:17:42,675 - main - INFO - Application shutting down
+INFO:     Application shutdown complete.
+INFO:     Finished server process [1520]
