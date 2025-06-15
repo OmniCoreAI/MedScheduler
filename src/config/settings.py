@@ -3,7 +3,8 @@ Application settings and configuration.
 """
 
 from pydantic_settings import BaseSettings
-from typing import Optional
+from typing import Optional, Union, List
+from pydantic import field_validator
 import os
 
 class Settings(BaseSettings):
@@ -33,12 +34,23 @@ class Settings(BaseSettings):
     host: str = "0.0.0.0"
     port: int = 8001
     streamlit_port: int = 8501
-    reload: bool = True
+    reload: bool = False
     
     # CORS Configuration
-    cors_origins: list = ["*"]
-    cors_methods: list = ["*"]
-    cors_headers: list = ["*"]
+    cors_origins: Union[str, List[str]] = "*"
+    cors_methods: Union[str, List[str]] = "*"
+    cors_headers: Union[str, List[str]] = "*"
+    
+    @field_validator('cors_origins', 'cors_methods', 'cors_headers', mode='before')
+    @classmethod
+    def parse_cors_values(cls, v):
+        """Parse CORS values from string or list."""
+        if isinstance(v, str):
+            if v == "*":
+                return ["*"]
+            # Split comma-separated values
+            return [item.strip() for item in v.split(",") if item.strip()]
+        return v
     
     # Logging Configuration
     log_level: str = "INFO"
