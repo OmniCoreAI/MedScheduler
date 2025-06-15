@@ -17,7 +17,7 @@ NC='\033[0m' # No Color
 # Configuration
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 ENV_FILE="$SCRIPT_DIR/.env"
-FASTAPI_PORT=${PORT:-8000}
+FASTAPI_PORT=${PORT:-8001}
 STREAMLIT_PORT=${STREAMLIT_PORT:-8501}
 FASTAPI_PID_FILE="$SCRIPT_DIR/.fastapi.pid"
 STREAMLIT_PID_FILE="$SCRIPT_DIR/.streamlit.pid"
@@ -332,7 +332,7 @@ case "${1:-start}" in
         echo "  help     - Show this help message"
         echo ""
         echo "Environment Variables:"
-        echo "  PORT              - FastAPI port (default: 8000)"
+        echo "  PORT              - FastAPI port (default: 8001)"
         echo "  STREAMLIT_PORT    - Streamlit port (default: 8501)"
         echo "  OPENAI_API_KEY    - Your OpenAI API key (required)"
         echo ""
