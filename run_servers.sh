@@ -78,14 +78,19 @@ setup_environment() {
     # Load environment variables if .env exists
     if [ -f "$ENV_FILE" ]; then
         print_status "Loading environment variables from .env"
-        export $(grep -v '^#' "$ENV_FILE" | xargs)
+        # Use set -a to automatically export variables, then source the file
+        set -a
+        source "$ENV_FILE"
+        set +a
     else
         print_warning ".env file not found. Creating from template..."
         cp env.example .env
         print_warning "Please edit .env file with your OpenAI API key"
         print_status "You can get your API key from: https://platform.openai.com/api-keys"
         read -p "Press Enter after you've updated the .env file..."
-        export $(grep -v '^#' .env | xargs)
+        set -a
+        source .env
+        set +a
     fi
     
     # Update ports from environment
